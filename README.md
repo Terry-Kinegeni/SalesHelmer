@@ -41,6 +41,8 @@ Provides pre-existing insight based off the existing data
 ![image](https://github.com/user-attachments/assets/d53d1e5b-5621-4b3b-98ca-654a00c36e7f)
 
 **Project Structure**
+
+
 ![image](https://github.com/user-attachments/assets/988bb9eb-2b4f-4c3d-a1f6-b74586426cfd)
 
 
@@ -61,7 +63,9 @@ cd sales-helmer/
 
 Create and activate a virtual environment:
 python -m venv .venv
+
 source .venv/bin/activate  # On macOS/Linux
+
 .venv\Scripts\activate  # On Windows
 
 Install dependencies:
