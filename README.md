@@ -16,7 +16,10 @@ Customizable Support & Confidence Levels: Allows users to adjust support and con
 
 Data Insights & Visualization: Provides graphical representation of association rules and itemset frequency.
 
+
 **Images** 
+
+
 **Home**
 
 The main dashboard of Sales Helmer, displaying an overview of frequent itemsets and association rules.
