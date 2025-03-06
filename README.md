@@ -2,6 +2,8 @@
 Sales Helmer is a data-driven basket analysis application that utilizes the Apriori algorithm to study customer purchasing behavior. By analyzing transaction data, Sales Helmer helps businesses identify frequently purchased item combinations, optimize product placement, and improve sales strategies.
 
 **Features**
+
+
 Basket Analysis: Identifies frequently purchased item sets using the Apriori algorithm.
 
 Association Rule Mining: Discovers strong associations between products based on purchase history.
@@ -40,7 +42,10 @@ Provides recommendations based on the generated rules, helping businesses optimi
 Provides pre-existing insight based off the existing data
 ![image](https://github.com/user-attachments/assets/d53d1e5b-5621-4b3b-98ca-654a00c36e7f)
 
+
+
 **Project Structure**
+
 
 
 ![image](https://github.com/user-attachments/assets/988bb9eb-2b4f-4c3d-a1f6-b74586426cfd)
@@ -52,7 +57,11 @@ Provides pre-existing insight based off the existing data
 Before running the project, ensure you have the following installed:
 
 Python 3.x
+
+
+
 Virtualenv
+
 
 
 **Setup**
