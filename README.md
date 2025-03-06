@@ -67,6 +67,7 @@ Virtualenv
 
 
 
+
 **Setup**
 
 Clone the repository:
@@ -74,16 +75,26 @@ git clone https://github.com/yourusername/sales-helmer
 cd sales-helmer/
 
 Create and activate a virtual environment:
+
+
 python -m venv .venv
+
+
 
 source .venv/bin/activate  # On macOS/Linux
 
+
 .venv\Scripts\activate  # On Windows
 
+
+
 Install dependencies:
+
 pip install -r requirements2.txt
 
+
 Run the application:
+
 python app.py
 
 
